@@ -43,7 +43,9 @@
 - Python 3.x
 - External libraries are [listed](requirements.txt).
   ```bash
-  pip install
+  pip install termcolor
+  pip install pytest
+  pip install pyfiglet
 
 ### Cloning the repository
 
